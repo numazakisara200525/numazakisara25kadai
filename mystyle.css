@@ -1,2 +1,3 @@
 body{ background-color: #FFEBCD; }
 h1 { color: #6B8E23; }
+th,td { border: outset medium #6B8E23; }
