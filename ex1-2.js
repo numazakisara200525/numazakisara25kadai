@@ -1,5 +1,5 @@
 function nazo() {
 if (document.getElementById('answer').value == 'おむすび') {
-alert('あたり！');} 
+alert('正解！');} 
 else {alert('はずれ！');}
 }
