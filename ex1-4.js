@@ -1,3 +1,3 @@
 function imgchange1() {
-document.getElementById('urasima').src = './image/bulbon.gif';
+document.getElementById('urasima').src = './image/5maime.png';
 }
